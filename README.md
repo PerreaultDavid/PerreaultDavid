@@ -1,8 +1,8 @@
-<h1 align="center">Bonjour, je suis David Perreault !</h1>
-<h1 align="center">Hello, I'm David Perreault!</h1>
+<h1 align="center">🐉 Bonjour, je suis David Perreault !</h1>
+<h2 align="center">🐉 Hello, I'm David Perreault!</h2>
 <hr/>
 <h4 align="center">Je suis un développeur web junior qui adore crée des sites web.</h4>
-<h4 align="center">I am a junior web developer who loves creating websites.</h4>
+<h5 align="center">I am a junior web developer who loves creating websites.</h5>
 <hr/>
 <h4 align="left">Mon site web personnel / My personal website :</h4>
 <ul align="left">
