@@ -19,7 +19,7 @@
       <li>https://www.joybucket.ca</li>
     </ul>
   </li>
-  <li><b>À travaillé dessus / Worked on</b>
+  <li><b>Travail dessus / Work on</b>
     <ul>
       <li>https://www.ipformation.ca</li>
       <li>https://www.amelioaction.com</li>
