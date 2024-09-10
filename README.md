@@ -1,8 +1,8 @@
 <h3 align="center">🐉 Bonjour, je suis David Perreault !</h3>
 <h4 align="center">🐉 Hello, I'm David Perreault!</h4>
 <hr/>
-<h4 align="center">Je suis un développeur web junior qui adore crée des sites web.</h4>
-<h5 align="center">I am a junior web developer who loves creating websites.</h5>
+<h4 align="center">Je suis un développeur web qui adore crée des sites web.</h4>
+<h5 align="center">I am a web developer who loves creating websites.</h5>
 <hr/>
 <h4 align="left">Mon site web personnel / My personal website :</h4>
 <ul align="left">
@@ -14,9 +14,8 @@
   <li><b>Possède / Own</b>
     <ul>
       <li>https://www.dragonloot.ca</li>
-      <li>https://www.pinguru.ca</li>
-      <li>https://www.cinecago.ca</li>
-      <li>https://www.joybucket.ca</li>
+      <li>https://www.darix.ca</li>
+      <li>https://www.lepetitzorro.ca</li>
     </ul>
   </li>
   <li><b>Travail dessus / Work on</b>
