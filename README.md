@@ -18,12 +18,6 @@
       <li>https://www.lepetitzorro.ca</li>
     </ul>
   </li>
-  <li><b>Travail dessus / Work on</b>
-    <ul>
-      <li>https://www.ipformation.ca</li>
-      <li>https://www.amelioaction.com</li>
-    </ul>
-  </li>
 </ul>
 <hr/>
 <h4 align="left">Langues de programmations que j'utilisent / Programming languages I use :</h4>
