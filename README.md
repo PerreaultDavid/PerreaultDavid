@@ -15,7 +15,12 @@
     <ul>
       <li>https://www.dragonloot.ca</li>
       <li>https://www.darix.ca</li>
-      <li>https://www.lepetitzorro.ca</li>
+      <li>https://www.zorro.darix.ca</li>
+      <li>https://www.dxx.ca</li>
+      <li>https://www.derg.ca</li>
+      <li>https://www.quipaye.darix.ca</li>
+      <li>https://www.pinguru.darix.ca</li>
+      <li>https://www.gratitude.darix.ca</li>
     </ul>
   </li>
 </ul>
